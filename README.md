@@ -341,4 +341,6 @@ plt.legend()
 
 # Result:
   To Perform Data Visualization using matplot python library for the given datas is successful.
+# Summary:
+  In this experiment, different types of plots such as line charts, scatter plots, bar graphs, histograms, box plots, and pie charts were created using the Matplotlib library. These visualizations helped to clearly represent and analyze the data.
  
